@@ -1,0 +1,10 @@
+.rightBar {
+    flex: 1;
+}
+
+.rightContainer {
+    width: 25pc;
+    height: 40vh;
+    background-color: white;
+    margin-top: 10px;
+}

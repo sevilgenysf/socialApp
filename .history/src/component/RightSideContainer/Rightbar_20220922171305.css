@@ -1,0 +1,20 @@
+.rightBar {
+    flex: 1;
+}
+
+.rightContainer {
+    width: 20pc;
+    height: 40vh;
+    background-color: white;
+    margin-top: 10px;
+    border-radius: 15px;
+}
+
+.adsImage {
+    width: 130px;
+}
+
+.adsContainer {
+    display: flex;
+    align-items: center;
+}

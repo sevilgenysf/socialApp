@@ -1,0 +1,41 @@
+.leftBar {
+    flex: 1;
+}
+
+.notificationsContainer {
+    width: 18pc;
+    height: 60vh;
+    background-color: white;
+    margin-top: 20px;
+    border-radius: 10px;
+    overflow: hidden;
+    overflow-y: scroll;
+}
+
+.notificationImg {
+    width: 40px;
+    height: 40px;
+    border-radius: 50%;
+    margin-left: 15px;
+}
+
+.followingUserName {
+    width: 35px;
+    height: 35px;
+    border-radius: 50%;
+    margin-left: 40px;
+}
+
+.likeImage {
+    width: 30px;
+    height: 30px;
+    margin-left: 40px;
+    border-radius: 5px;
+}
+
+.exploreImage {
+    width: 86px;
+    margin-left: 4px;
+    height: 150px;
+    object-fit: cover;
+}

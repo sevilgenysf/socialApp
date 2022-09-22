@@ -1,0 +1,16 @@
+.leftBar {
+    flex: 1;
+}
+
+.notificationsContainer {
+    width: 18pc;
+    height: 60vh;
+    background-color: white;
+    margin-top: 20px;
+    border-radius: 10px;
+}
+
+.notificationImg {
+    width: 20px;
+    height: 20px;
+}

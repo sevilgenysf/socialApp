@@ -1,0 +1,45 @@
+.mainNavbar {
+    display: flex;
+    justify-content: space-between;
+    width: 100%;
+    margin: auto;
+    background-color: white;
+}
+
+.seacrchInputContainer {
+    display: flex;
+    align-items: center;
+    flex: 4;
+}
+
+.iconsContainer {
+    display: flex;
+    align-items: center;
+    flex: 0.2;
+}
+
+.logoContainer {
+    flex: 0.2;
+}
+
+.icons {
+    width: 20px;
+    height: 20px;
+    margin-left: 20px;
+}
+
+.searchIcon {
+    width: 20px;
+    height: 20px;
+}
+
+.profileImage {
+    width: 30px;
+    height: 30px;
+    border-radius: 50%;
+    margin-left: 20px;
+}
+
+.searchInput {
+    width: 70pc;
+}

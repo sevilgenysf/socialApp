@@ -1,0 +1,27 @@
+.mainNavbar {
+    display: flex;
+    align-items: center;
+    width: 80%;
+    margin: auto;
+}
+
+.seacrchInputContainer {
+    display: flex;
+    align-items: center;
+}
+
+.iconsContainer {
+    display: flex;
+    align-items: center;
+}
+
+.icons {
+    width: 20px;
+    height: 20px;
+}
+
+.profileImage {
+    width: 30px;
+    height: 30px;
+    border-radius: 50%;
+}
